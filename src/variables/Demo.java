@@ -28,7 +28,9 @@ public class Demo {
 		
 		x = (byte) b;
 		
+		// print the double b casted as byte
 		System.out.println("x = " + x);
+		// print double b
 		System.out.println("b = " + b);
 		
 	}
